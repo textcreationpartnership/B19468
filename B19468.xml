@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation concerning wine-licences.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19468</idno><idno type="EEBO-CITATION">99890142</idno>
+  <idno type="VID">188326</idno>
+  <idno type="EEBO-PROQUEST">2264189445</idno>
+  
+            <idno type="OCLC"> 15607761</idno>
+            <idno type="STC">Wing C3275A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[172]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[24t]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.8[149]</idno>
+            <idno type="STC">ESTC R36121</idno>
+            <idno type="PROQUEST">ocm99890142</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890142e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188326)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[172]; C9:3[119]; C18:1[148])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation concerning wine-licences.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker, printers to the King's most Excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at Whitehal, the nineteenth day of May, 1662. in the fourteenth year of our reign.".</note>
+                  <note>Steele notation: Arms 66  Sep- of  2) Right  each.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wine and wine making --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Wine and wine making --  Taxation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:188326:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>By the King.</head>
+            <head type="sub">A PROCLAMATION Concerning WINE-LICENCES.</head>
+            <opener>
+               <signed>
+                  <hi>CHARLES</hi> R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by Our Royal Proclamation, bearing date at Our Court at <hi>Whitehal</hi> the Twentieth day of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> in the Thirteenth year of Our Reign, published in pursuance of a late Act of Parliament, In<g ref="char:EOLhyphen"/>tituled, <hi>An Act for the better ordering and selling of Wines by Retail;</hi> amongst other things, We did will and require all and every Our Loving Subjects, who were Retailers of any Wine or Wines within Our Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town and Port of <hi>Berwick upon Tweed,</hi> to appear and ad<g ref="char:EOLhyphen"/>dress themselves unto Our Trusty and Welbeloved Sir <hi>Maurice Berkley</hi> Knight and Baronet, Sir <hi>John Colliton,</hi> and others Our then Commissioners and Agents, and such others (or any two or more of them) as We should appoint to be Our Agents, for granting Licences for Retailing Wine, at their Office in <hi>Black-Fryers, London,</hi> at the time and times therein limited and appointed: And whereas in pursuance of Our said Proclamation, many of Our good Subjects did conform themselves, and come in to Our said Commissioners and Agents, and took Licences for the uttering of Wine by Retail; but many others, contrary to Our express Will and Pleasure, did wholly neglect to take any such Licence from Our said Agents, whereby they are become liable to the several Pains and Penalties in the said recited Act contained. And whereas We have thought fit to revoke Our former Commission issued to the afore recited persons for the granting of Licences or Dispensations for selling of Wine by Retail, and to appoint Our Right Trusty and Right Welbeloved Cosin <hi>John</hi> Earl of <hi>Bathe,</hi> First Gentleman of Our Bed-chamber, <hi>Edmund Wind<g ref="char:EOLhyphen"/>ham</hi> Esquire, one of the Gentlemen of Our Privy-Chamber in Ordinary, and others, to be Our present Commissioners and Agents for granting Licences for Retailing Wines; We therefore do hereby strictly charge and command all Our Subjects, who are Retailers of any Wine or Wines within Our said Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town and Port of <hi>Berwick upon Tweed,</hi> That they and every of them do appear and address themselves unto Our said Right Trusty and Right Welbeloved Cosin <hi>John</hi> Earl of <hi>Bathe,</hi> and <hi>Edmund, Windham</hi> Esquire, and such others (or any two or more of them) as We have appointed to be Our Commissioners or Agents for the granting Licences for Retailing of Wines at their Office in the Old Palace-yard at <hi>Westminster,</hi> at the several and respective time and times herein after limited and appointed, then and there to contract with Our said Agents at such Rates and Prices, as they shall agree, for Li<g ref="char:EOLhyphen"/>cence and Dispensation for Retailing of Wines, and to perfect such their respective Contracts, and give such good and sufficient Security for Payment of their respective Rents and Performance of Covenants, as Our said Agents shall like and approve. And We do further hereby Declare, and Our Royal Will and Pleasure is, That all and every person and persons who are Retailers of Wine, or that shall desire to have Licences and Dispensation to Retail Wine within Our said Dominions, and dwelling within One hundred miles of Our City of <hi>London,</hi> shall, and do appear before Our said Agents at their said Office, and shall, and do agree, contract, and give good Security for Payment of the Rents and Per<g ref="char:EOLhyphen"/>formance of the Covenants, as aforesaid, at or before the Tenth day of <hi>June</hi> next; and all and every other person and per<g ref="char:EOLhyphen"/>sons who are Retailers of Wine, and that desire to have Licence and Dispensation to Retail Wine as aforesaid, dwell<g ref="char:EOLhyphen"/>ing above One hundred miles from Our said City of <hi>London,</hi> shall, and do appear, agree, and contract with Our said Agents, and give good Security for Payment and Performance of Covenants, as aforesaid, at, or before the First day of <hi>July</hi> next: And We hereby Declare, That if any person or persons in any City, Town-Corporate, or other place or places, shall presume to Vtter or Retail any Wine or Wines whatsoever, without making such Contract and Agreement, and giving Security for Payment, for Licence, and Dispensation, to commence as aforesaid, and within the said respective time herein limited, are, and shall be liable to the Penalties and Forfeitures in the said Act set and imposed upon all such who Vtter and Retail Wine without Licence, as in the said Act is appointed, and are to be proceeded against as the said Act directeth. And We do further streightly charge and command all Sheriffs, Mayors, Bailiffs, Constables, and all other Our Officers whatsoever, to be aiding and assisting unto Our said Agents, for the exact obeying and putting in exe<g ref="char:EOLhyphen"/>cution of this Our Proclamation: And We do hereby further declare to all Our loving Subjects, That it will be good and acceptable service to Vs in any of Our said Subjects to prosecute such Offenders, who shall presume to Sell or Retail any Wines without Licence, as aforesaid, contrary to the true intent and meaning of the said Act, in such manner as is thereby appointed, for which they shall receive the reward and advantage thereby proposed, being the Moyety of Five pounds for each offence so committed.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehal,</hi>
+                  <date>the Nineteenth day of <hi>May,</hi> 1662. in the Fourteenth year of Our Reign.</date>
+               </dateline>
+               <lb/> God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the KING'S most Excellent Majesty. 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
